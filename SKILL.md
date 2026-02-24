@@ -60,3 +60,7 @@ parent-dir/
 - A branch checked out in one worktree CANNOT be checked out in another (git enforces this)
 - Worktrees share the same `.git` history — commits are visible across all worktrees
 - Use `git worktree remove` (or the script's `remove` command) to clean up when done
+
+## See Also
+
+- **GitHub**: https://github.com/abhattacherjee/worktree — install instructions, changelog, license
